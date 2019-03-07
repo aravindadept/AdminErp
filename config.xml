@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.jarvis.app" version="1.0" xmlns="http://www.w3.org/ns/widgets">
+
+  <name>Admin</name>
+  <description>This is the best app ever.</description>
+  <author email="info@myapp.com" href="http://www.billingsoftsolution.com/">Amazing App Team</author>
+  <platform name="android" />
+
+  <icon src="admin.png" />
+  <splash src="i.png" />
+  
+</widget>
